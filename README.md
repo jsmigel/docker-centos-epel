@@ -1,2 +1,2 @@
 # docker-centos-epel
-Docker base image of CentOS w/ EPEL installed
+Docker base image of CentOS with EPEL installed
